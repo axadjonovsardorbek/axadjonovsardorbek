@@ -62,10 +62,3 @@
 | **iMed** — [imedteam.uz](https://imedteam.uz) | Online learning platform | Full backend — web + mobile APIs, OTP auth, Click, video pipeline, versioned cache
 
 ---
-
-<details>
-<summary>📊 GitHub stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=axadjonovsardorbek&show_icons=true&hide_border=true&cache_seconds=86400" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadjonovsardorbek&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="langs">
-</details>
